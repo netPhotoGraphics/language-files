@@ -1,1 +1,1 @@
-# language-files
+This repository is the final resting place for translation files that have become abandoned. If you wish to use one of these languages, place the language folder into the plugins/locale folder of your site. If someone decides to take an active interest in the language, e.g. update the translations, they will become candidates for reinclusion into the main release files.
